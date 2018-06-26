@@ -1,2 +1,2 @@
-# getpost
+# getpo.st
 gepo.st
